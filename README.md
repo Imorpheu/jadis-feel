@@ -9,11 +9,11 @@
 > Jadis est Écho, qui résonne depuis un passé indéfini, teintée d'une nostalgie qu'on affectionne pour mieux écrire le présent.
 
 <p align="center">
-  <a href="images/jadis-feel-film-beta.mp4">
+  <a href="https://jadisfeel.com/assets/videos/jadis-feel-film-beta.mp4">
     <img src="images/partage-jadis-feel.jpg" width="480" alt="Voir le court film de la bêta de JADIS Feel.">
   </a>
   <br>
-  <a href="images/jadis-feel-film-beta.mp4">▶ Voir le court film de la bêta</a>
+  <a href="https://jadisfeel.com/assets/videos/jadis-feel-film-beta.mp4">▶ Voir le court film de la bêta</a>
 </p>
 
 ---
